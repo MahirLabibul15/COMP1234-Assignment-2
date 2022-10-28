@@ -1,0 +1,33 @@
+.wrapper{
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: blue;
+    height: inherit;
+    float: left;
+    display: block;
+}
+body{
+    display: flex;
+    position: relative;
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+.list-elements{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    font-size: 20px;
+    display: flex;
+    position: relative;
+    padding-bottom: 25px;
+}
+main{
+    padding-left: 25px;
+    font-family: 'Nunito', sans-serif;
+}
+#mailLink{
+    padding-bottom: 40px;
+}
